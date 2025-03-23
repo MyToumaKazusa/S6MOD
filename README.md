@@ -1,8 +1,9 @@
 # Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization
 The official repository of CVPR2025 paper "Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization"
+
 [![arXiv](https://img.shields.io/badge/arXiv-2312.00600-b31b1b.svg)](https://arxiv.org/abs/2412.18177)
 
-![S6MOD Framework](figs/S6MOD.pdf)
+![S6MOD Framework](figs/S6MOD.jpg)
 
 ## 📒 Updates
 
