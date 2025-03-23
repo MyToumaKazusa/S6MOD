@@ -1,0 +1,70 @@
+# ER
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/ER,c10,m500.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/ER,c10,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/ER,c100,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/ER,c100,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/ER,c100,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/ER,tiny,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/ER,tiny,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/ER,tiny,m10000.yaml
+
+# DERPP
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/DERPP,c10,m500.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/DERPP,c10,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/DERPP,c100,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/DERPP,c100,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/DERPP,c100,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/DERPP,tiny,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/DERPP,tiny,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/DERPP,tiny,m1000.yaml
+
+
+# OCM
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/OCM,c10,m500.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/OCM,c10,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/OCM,c100,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/OCM,c100,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/OCM,tiny,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/OCM,tiny,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/OCM,tiny,m10000.yaml
+
+# GSA
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/GSA,c10,m500.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/GSA,c10,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/GSA,c100,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/GSA,c100,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/GSA,c100,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/GSA,tiny,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/GSA,tiny,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/GSA,tiny,m10000.yaml
+
+# OnPro
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/ONPRO,c10,m500.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/ONPRO,c10,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/ONPRO,c100,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/ONPRO,c100,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/ONPRO,c100,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/ONPRO,tiny,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/ONPRO,tiny,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/ONPRO,tiny,m10000.yaml
+
+
+# OCMCCLDC
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/OCMCCLDC,c10,m500.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/OCMCCLDC,c10,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/OCMCCLDC,c100,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/OCMCCLDC,c100,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/OCMCCLDC,c100,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/OCMCCLDC,tiny,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/OCMCCLDC,tiny,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/OCMCCLDC,tiny,m10000.yaml
+
+# OnProCCLDC
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/ONPROCCLDC,c10,m500.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar10/ONPROCCLDC,c10,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/ONPROCCLDC,c100,m1000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/ONPROCCLDC,c100,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/cifar100/ONPROCCLDC,c100,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/ONPROCCLDC,tiny,m2000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/ONPROCCLDC,tiny,m5000.yaml
+python main.py --data-root ./data --config ./config/CVPR25/tiny/ONPROCCLDC,tiny,m10000.yaml
